@@ -184,7 +184,7 @@ MIT License - feel free to use this project for learning or building your own id
 
 ## 📧 Contact
 
-Built for [Hackathon Name] - [Your Team/Name]
+Built for [village hacks ] - [Pratham Nanekar]
 
 ---
 
